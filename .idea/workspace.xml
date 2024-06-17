@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="kiemtra:war" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="735b7c44-f87b-44e1-906f-c32ba4e18f11" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/kiemtra/HelloServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/kiemtra/connect/HibernateUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/kiemtra/model/ChiTietSanPham.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/kiemtra/model/DanhMuc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/kiemtra/model/HoaDonTongTien.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/kiemtra/model/KhachHang.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/kiemtra/model/SanPham.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/kiemtra/model/Sizes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/kiemtra/model/hdct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/kiemtra/model/hoadon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/kiemtra/model/mausacc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/kiemtra/reponsitory/DanhMucrepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/kiemtra/reponsitory/KhachHangReponsitory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/kiemtra/reponsitory/SanPhamReponsitory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/kiemtra/reponsitory/chiTietSanPhamReponsitory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/kiemtra/reponsitory/hdctReopnsitory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/kiemtra/reponsitory/hoaDonReponsitory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/kiemtra/reponsitory/mauSacreponsitory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/kiemtra/reponsitory/sizeReponsitory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/kiemtra/servlet/ServletDanhMuc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/kiemtra/servlet/ServletHoaDon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/kiemtra/servlet/ServletKhachHang.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/kiemtra/servlet/ServletMau.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/kiemtra/servlet/ServletSanPham.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/kiemtra/servlet/Servlethdct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/kiemtra/servlet/Servletkt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/kiemtra/servlet/Servletspct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/kiemtra/servlet/Servletx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/kiemtra/servlet/SizeServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/DanhMuc.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/chitiet.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/ctsp.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/ctspdental.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/dentalDanhMuc.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/dentalHoaDon.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/dentalMau.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/dentalSize.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/hdct.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/hdctDental.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/hoadon.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/khachHang.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/khachhangDental.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/mausac.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/sanpham.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/size.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/trangchu.jsp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Jsp File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2dw3mA71F6HxIIkdRvPsjSSXL38" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/hau04/java4/kiemtra&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/webapp" />
+      <recent name="D:\fpoly\java4\kiemtra\src\main\webapp" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Tomcat 10.1.20">
+    <configuration name="DanhMucrepository" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.kiemtra.reponsitory.DanhMucrepository" />
+      <module name="kiemtra" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.kiemtra.servlet.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SanPhamReponsitory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.kiemtra.reponsitory.SanPhamReponsitory" />
+      <module name="kiemtra" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.kiemtra.reponsitory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="chiTietSanPhamReponsitory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.kiemtra.reponsitory.chiTietSanPhamReponsitory" />
+      <module name="kiemtra" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.kiemtra.reponsitory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mauSacreponsitory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.kiemtra.reponsitory.mauSacreponsitory" />
+      <module name="kiemtra" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.kiemtra.servlet.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sizeReponsitory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.kiemtra.reponsitory.sizeReponsitory" />
+      <module name="kiemtra" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.kiemtra.servlet.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 10.1.20" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 10.1.20" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/show" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="kiemtra:war">
+          <settings>
+            <option name="CONTEXT_PATH" value="" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="39170c64-56bc-433a-b54b-26390e0ed19f" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="50045" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="kiemtra:war" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.chiTietSanPhamReponsitory" />
+      <item itemvalue="Application.DanhMucrepository" />
+      <item itemvalue="Application.mauSacreponsitory" />
+      <item itemvalue="Application.SanPhamReponsitory" />
+      <item itemvalue="Application.sizeReponsitory" />
+      <item itemvalue="Tomcat Server.Tomcat 10.1.20" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.chiTietSanPhamReponsitory" />
+        <item itemvalue="Application.SanPhamReponsitory" />
+        <item itemvalue="Application.mauSacreponsitory" />
+        <item itemvalue="Application.sizeReponsitory" />
+        <item itemvalue="Application.DanhMucrepository" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="735b7c44-f87b-44e1-906f-c32ba4e18f11" name="Changes" comment="" />
+      <created>1710905470574</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710905470574</updated>
+      <workItem from="1710905471656" duration="276000" />
+      <workItem from="1710910913987" duration="4723000" />
+      <workItem from="1710919242446" duration="756000" />
+      <workItem from="1711084610372" duration="984000" />
+      <workItem from="1711085609976" duration="105000" />
+      <workItem from="1711085738695" duration="100000" />
+      <workItem from="1711086069717" duration="4574000" />
+      <workItem from="1711121690100" duration="3690000" />
+      <workItem from="1711286786284" duration="3851000" />
+      <workItem from="1711343163076" duration="6839000" />
+      <workItem from="1711432506291" duration="98000" />
+      <workItem from="1711432821732" duration="5000" />
+      <workItem from="1711440473122" duration="1385000" />
+      <workItem from="1711509436042" duration="1034000" />
+      <workItem from="1711515557301" duration="7500000" />
+      <workItem from="1711545185883" duration="388000" />
+      <workItem from="1711550626313" duration="2361000" />
+      <workItem from="1711602694720" duration="1053000" />
+      <workItem from="1711605552770" duration="229000" />
+      <workItem from="1711700023618" duration="182000" />
+      <workItem from="1711709446564" duration="159000" />
+      <workItem from="1711805084848" duration="9910000" />
+      <workItem from="1711817840409" duration="32000" />
+      <workItem from="1711818528186" duration="25000" />
+      <workItem from="1711820980957" duration="19000" />
+      <workItem from="1711822740049" duration="21000" />
+      <workItem from="1711823316900" duration="65000" />
+      <workItem from="1711824344492" duration="54000" />
+      <workItem from="1711936655214" duration="655000" />
+      <workItem from="1711947334597" duration="15000" />
+      <workItem from="1711953115804" duration="1080000" />
+      <workItem from="1711954315800" duration="443000" />
+      <workItem from="1711956104202" duration="29442000" />
+      <workItem from="1712050145291" duration="35300000" />
+      <workItem from="1712109984226" duration="3789000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
